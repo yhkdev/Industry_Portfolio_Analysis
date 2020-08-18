@@ -2,7 +2,7 @@
 
 **Goal**: Find if there are correlation between industries and economic indicators
 
-**Motivation**: To create a better portfolio out of the stocks I are invested in / have invested in before
+**Motivation**: To create a better portfolio out of the stocks I am invested in, or have invested in before
 
 ### Questions:
 
