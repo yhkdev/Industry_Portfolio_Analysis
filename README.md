@@ -37,9 +37,20 @@
    a. Get EA, TTWO, ATVI
    b. Clean - date as index. col of tickers. rows of closing price per col.
    c. Stat Analysis - daily_return, cum_return, daily_std, annualized_std, annualized_sharpe, etc.
-2. Select individual industries stock analysis
-3. Relation - Between Industries
-4. Relation - Between stocks in entire portfolio
+   
+2. All portfolio stock analysis
+
+   a. Get all other stocks for other industries listed above
+
+   b. Group stocks into it's own industry portfolios
+
+   b. Stat Analysis - Same as checkpoint 1, but for portfolios, not individual stocks
+
+3. Select individual industries stock analysis
+
+4. Relation - Between Industries
+
+5. Relation - Between stocks in entire portfolio
 
 
 #### Other considerations: Economics
