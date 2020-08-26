@@ -26,7 +26,7 @@
   * Mid/Downstream: KMI, PSX, EPD, ET, PAA, 
 * **Defense** - LMT, RTN, LDOS, BA, NOC, GD, OSK, KBR
 * **Big Tech** - FB, AAPL, AMZN, GOOG, MCST, IBM, INTC, CSCO, NVDA, MU, SQ, PYPL
-* **Finance** - GS. JPM, MS, BAC, C, CS, UBS
+* **Finance** - GS, JPM, MS, BAC, C, CS, UBS
 * **Airlines** - UAL, LUV, DAL, AAL, ALK, JBLU, SAVE
 * **Waste services** - WM, RSG, WCN
 
