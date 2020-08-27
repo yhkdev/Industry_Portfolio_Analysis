@@ -43,9 +43,9 @@
 
    b. Group stocks into it's own industry portfolios
 
-   c. Analysis -  stocks-to-stocks
+   c. Analysis - portfolio-to-portfolio
 
-   d. Analysis - portfolio-to-portfolio
+   d. Analysis -  stocks-to-stocks
 
    b. Stat Analysis - Same as checkpoint 1, but for portfolios, not individual stocks
 
