@@ -25,11 +25,10 @@
   * Upstream: COP, HAL
   * Mid/Downstream: KMI, PSX, EPD, ET, PAA, 
 * **Defense** - LMT, RTN, LDOS, BA, NOC, GD, OSK, KBR
-* **Big Tech** - FB, AAPL, AMZN, GOOG, MCST, IBM, INTC, CSCO, NVDA, MU, SQ, PYPL
+* **Big Tech** - FB, AAPL, AMZN, GOOG, MSFT, IBM, INTC, CSCO, NVDA, MU, SQ, PYPL
 * **Finance** - GS, JPM, MS, BAC, C, CS, UBS
 * **Airlines** - UAL, LUV, DAL, AAL, ALK, JBLU, SAVE
 * **Waste services** - WM, RSG, WCN
-
 
 **Iterative Checkpoints**:
 
@@ -43,6 +42,10 @@
    a. Get all other stocks for other industries listed above
 
    b. Group stocks into it's own industry portfolios
+
+   c. Analysis -  stocks-to-stocks
+
+   d. Analysis - portfolio-to-portfolio
 
    b. Stat Analysis - Same as checkpoint 1, but for portfolios, not individual stocks
 
