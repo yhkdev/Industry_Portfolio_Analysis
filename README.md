@@ -9,8 +9,6 @@
 * What are the most uncorrelated industries?
 * If there are correlation amongst industries, do these change over different time periods at all?
 
-### Hypothesis: 
-
 
 ### Resources/Metrics Used
 * **Industries**: Gaming, Oil, Defense, Big Tech, Finance, Airlines, Waste Service
@@ -30,40 +28,15 @@
 * **Airlines** - UAL, LUV, DAL, AAL, ALK, JBLU, SAVE
 * **Waste services** - WM, RSG, WCN
 
-**Iterative Checkpoints**:
 
-1. Gaming industry stock analysis
-   a. Get EA, TTWO, ATVI
-   b. Clean - date as index. col of tickers. rows of closing price per col.
-   c. Stat Analysis - daily_return, cum_return, daily_std, annualized_std, annualized_sharpe, etc.
-   
-2. All portfolio stock analysis
-
-   a. Get all other stocks for other industries listed above
-
-   b. Group stocks into it's own industry portfolios
-
-   c. Analysis - portfolio-to-portfolio
-
-   d. Analysis -  stocks-to-stocks
-
-   b. Stat Analysis - Same as checkpoint 1, but for portfolios, not individual stocks
-
-3. Select individual industries stock analysis
-
-4. Relation - Between Industries
-
-5. Relation - Between stocks in entire portfolio
-
-
-#### Other considerations: Economics
+#### Other considerations (NOT implemented yet): Economics
 
 Question
 * Do gaming companies/stocks do well as unemployment rises?
 * How correlated are common economic indicators with stock prices? 
 
 Hypothesis
-* Gaming industries do well as unemployment rises because more people play games
+* Gaming industries do well as unemployment rises because more people are home to play games (and to de-stress)
 * Defense stocks are good hedge against economic downturns. They are necessary for the country so government will continue buying from them.
 * Waste service stocks are uncorrelated with most other industry stocks and necessary regardless of economic downturn. Therefore, it is safer to invest in compared to other industries even in economic downturn. 
 
